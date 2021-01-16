@@ -1,0 +1,36 @@
+html{
+	background: url(https://sun9-40.userapi.com/impf/0c1Gs3dEeNJ1bPPLGNtxv9jFDfVx0W4NbYAfdQ/TURuomb7iEE.jpg?size=561x800&quality=96&proxy=1&sign=69947e4783ad926fe93e6c9cf26204c8&type=album) repeat-y right top;
+	
+}
+
+#gdz{
+	font-size: 50px;
+	color: yellow;
+	font-family: Double Struck, sans-serif;
+}
+
+#gdzdiv{
+	border: 7px inset blue;
+	background-color: red;
+}
+
+.dopo{
+	color: orange
+}
+
+.dydka{
+	color: #FF1493	
+}
+
+#reg{
+	font-size: 30px;
+	color: #DA70D6;
+}
+
+#d{
+	border: 10px double black;
+	border-radius: 20 px;
+	padding: 30px;
+	margin: 15px;
+	width: 400px;
+}
